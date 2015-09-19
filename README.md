@@ -1,3 +1,3 @@
 #bootstrap-challenge
 
-a css framework for the css challenged
+a CSS framework for the CSS challenged
