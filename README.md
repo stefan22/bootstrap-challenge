@@ -1,5 +1,5 @@
 #bootstrap-challenge
 
-a CSS framework for the CSS challenged - not me :)
+a CSS framework for the CSS challenged  :)
 
-###Single page site with bootstrap
+###Responsive single page site with bootstrap
