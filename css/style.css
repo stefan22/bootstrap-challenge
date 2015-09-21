@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800|Roboto+Slab:400,100,300,700);
 
 body {
-	padding-top: 50px;
+	
 	font-family: "Roboto Slab", sans-serif;
 	font-weight: 300;
 	font-size: 2em;
@@ -18,11 +18,49 @@ img {
 	max-width: 200px;
 }
 
-.navbar {
-	border-radius: 0;
-	border:0;
+/* header navigation */
+
+header .navbar {
+	padding: 30px 0;
 }
 
+header .navbar-default {
+	background-color: transparent;
+	border: none;
+}
+
+header .navbar-default .navbar-nav a {
+	color: white;
+	padding: 5px 8px;
+}
+
+header .navbar-default .navbar-nav a:hover {
+	color: #eec856;
+}
+
+header .navbar-default .navbar-nav .active a {
+	color: #eec856;
+	font-weight: 700;
+	background-color: transparent !important;
+	border-bottom: 4px solid #eec856;
+	text-shadow:none;
+}
+
+header .navbar-default .navbar-nav .active a:hover {
+	color: #e15d5f;
+	background: transparent;
+	text-shadow:none;	
+}
+
+
+
+
+
+
+
+
+
+/* footer navigation */
 
 footer .navbar-default {
 	background: transparent;
