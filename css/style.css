@@ -102,6 +102,9 @@ footer .navbar-default {
 	border: none;
 }
 
+
+/* page */
+
 .page {
 	padding: 50px 0;
 }
@@ -110,3 +113,82 @@ footer .navbar-default {
 	text-align: center;
 	padding-bottom: 30px;
 }
+
+
+#mission {
+	background-color: #e4d29d;
+	background-image: -moz-linear-gradient(to bottom, #eef08a, #819a2d);
+	background-image: -o-linear-gradient(to bottom, #eef08a, #819a2d);
+	background-image: -webkit-linear-gradient(to bottom, #eef08a, #819a2d);
+	background-image: -ms-linear-gradient(to bottom, #eef08a, #819a2d);
+	background-image: linear-gradient(to bottom, #eef08a, #819a2d);
+	border-top: 2px solid rgba(238,200,86,.5);
+
+}
+
+#services {
+	margin: 20px 0;
+	text-align: center;
+}
+
+#services img.icon {
+	display: block;
+	width: 80px;
+	margin: 0 auto;
+	margin-bottom: 5px;
+}
+
+#services h3 {
+	margin-bottom: 10px;
+}
+
+
+@media only screen and (min-width: 450px) and (max-width: 768px) {
+	.service p {
+		padding: 0 20%;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
